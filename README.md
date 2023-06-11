@@ -1,4 +1,4 @@
-[](https://cdn.midjourney.com/14d7b458-7cc5-456a-be75-c120b3d6f282/0_1.png)
+![](https://cdn.midjourney.com/14d7b458-7cc5-456a-be75-c120b3d6f282/0_1.png)
 ### Hi there 👋, Im Téva 🙉
 #### I am a software engineering student at "42 Nice" from France 
 ![I am a software engineering student at "42 Nice" from France ]
