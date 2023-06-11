@@ -7,3 +7,7 @@
 - 🌱 I’m currently learning how to do backend with Nest.js 
 
 I know C, C++, Python, Javascript, Java
+
+
+
+[![tandre's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tandre?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
