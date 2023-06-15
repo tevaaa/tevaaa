@@ -2,9 +2,9 @@
 ### Hi there 👋, Im Téva 🙉
 #### I am a software engineering student at "42 Nice" from France 
 
-- 🔭 I’m currently working on an IRC client and web app school project 
+- 🔭 I’m currently working on an IRC server and a full-stack web app for a school project 
 
-- 🌱 I’m currently learning how to do backend with Nest.js 
+- 🌱 I’m currently learning backend with Nest.js 
 
 
 [![tandre's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tandre?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
